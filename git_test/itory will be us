@@ -1,0 +1,17 @@
+[33mcommit eeb12a69b7ab94647af9d59a2644a257fad7d7a1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cristian Metz <c.metz@outlook.com>
+Date:   Sat Dec 4 17:23:03 2021 -0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 1f1aad7c7184266aad004ad5b94d52066b2da0ed[m
+Author: Cristian Metz <c.metz@outlook.com>
+Date:   Sat Dec 4 17:10:04 2021 -0500
+
+    Add hello_world.txt
+
+[33mcommit 0aa789bc469055d2eb3b8007afb62ac4415a34a2[m
+Author: Cristian Metz <51766927+cristianmetz@users.noreply.github.com>
+Date:   Sat Dec 4 17:03:53 2021 -0500
+
+    Initial commit
